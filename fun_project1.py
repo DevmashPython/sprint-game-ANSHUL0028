@@ -43,3 +43,8 @@ while (1):
 time_elapsed=time.time()-s_time
 print "congrats you have finished the game"
 print "time taken is" +str(time_elapsed)
+
+'''
+1. Mention controls for the game.
+2. The game should be lost on pressing the wrong key
+'''
